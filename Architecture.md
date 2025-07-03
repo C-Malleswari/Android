@@ -1,7 +1,7 @@
 
 #  Linux Architecture:
 
-![Linux Architecture](/images/linux_architecture.jpeg)
+![Linux Architecture](/Images/linux_architecture.jpeg)
 
 ---
 
