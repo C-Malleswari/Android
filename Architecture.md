@@ -101,7 +101,7 @@ Instead of writing low-level code to talk to the kernel, programmers can use eas
 Example:
 When you use `printf()` in C, it internally uses the `write()` system call to print to the screen.
 ```
----
+
 ```
 Question: What is User Space and Kernel Space?
 Answer: 
@@ -111,9 +111,9 @@ Why it matters:
 This separation keeps the system safe and stable — user applications cannot directly access or crash the hardware.
 Example:
 When an app wants to read a file:  
-→ It makes a **system call**  
-→ The request goes to the **kernel**  
-→ The kernel uses the **driver** to access the **hardware**  
+→ It makes a system call  
+→ The request goes to the kernel  
+→ The kernel uses the driver to access the hardware  
 → Data is returned to the app safely.
 
 ---
