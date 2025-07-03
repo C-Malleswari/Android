@@ -67,7 +67,7 @@ Android is free, open-source, easy to use, and has a huge app store. Older syste
 ##  Reasons for the Widespread Use of Android
 
 
-![Reasons Android Dominated:](/images/why_android.jpg)
+![Reasons Android Dominated:](/Images/why_android.jpg)
 
 ---
 
@@ -136,7 +136,7 @@ Android is free, open-source, easy to use, and has a huge app store. Older syste
 
 ## Android Applications
 
-![android used in](/images/applications.jpeg)
+![android used in](/Images/applications.png)
 
 ---
 ###  Question: Where else is Android used, other than phones?
