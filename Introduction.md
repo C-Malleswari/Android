@@ -60,7 +60,8 @@ Question: Why did Android become more popular than old mobile OS ?
 
 ```
 Answer:
-Android is free, open-source, easy to use, and has a huge app store. Older systems were closed and hard to develop for.
+Android is free, open-source, easy to use, and has a huge app store. Older systems were
+closed and hard to develop for.
 
 ```
 ---
