@@ -90,5 +90,44 @@ The Kernel is the **heart** of the operating system. It controls everything from
 Kernel Space (highest privilege level).
 
 ---
+## Interview Questions:
+```
+Question: What is the role of glibc/system libraries in Linux Architecture?
+ 
+Answer:  
+System libraries like glibc act as a bridge between user programs and the Linux kernel.  
+They provide ready-made functions (APIs) so that developers don’t have to directly use complex system calls. 
+Instead of writing low-level code to talk to the kernel, programmers can use easy functions like printf() or scanf() from glibc.
+Example:
+When you use `printf()` in C, it internally uses the `write()` system call to print to the screen.
+```
+---
+```
+Question: What is User Space and Kernel Space?
+Answer: 
+- User Space is where user applications run (like your shell, browser, or text editor).  
+- Kernel Space is where the core of the operating system runs — it manages CPU, memory, and hardware devices.
+Why it matters:
+This separation keeps the system safe and stable — user applications cannot directly access or crash the hardware.
+Example:
+When an app wants to read a file:  
+→ It makes a **system call**  
+→ The request goes to the **kernel**  
+→ The kernel uses the **driver** to access the **hardware**  
+→ Data is returned to the app safely.
+
+---
+```
+
+```
+Question: What is a Shell in Linux?
+Answer: 
+A shell is a command-line interface that allows users to interact with the Linux system by entering commands.
+Example:  
+- bash is the most common shell in Linux.  
+- Commands like `ls`, `cd`, or `mkdir` are typed into the shell, and the shell runs those programs.
+
+```
+---
 
 
