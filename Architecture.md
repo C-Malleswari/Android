@@ -1,7 +1,7 @@
 
 #  Linux Architecture:
 
-![Linux Architecture](/Images/linux_architecture.jpeg)
+![Linux Architecture](/Images/linux_architecture.jpg)
 
 ---
 
@@ -88,7 +88,6 @@ The Kernel is the **heart** of the operating system. It controls everything from
 ###  **Where It Runs:**
 
 Kernel Space (highest privilege level).
-```
 
 ---
 
