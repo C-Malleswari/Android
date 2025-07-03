@@ -12,8 +12,8 @@
   * C/C++ (for low-level parts and native apps)
 
 ---
-
-###  Question: What is Android? How is it different from normal Linux?
+### Interview Question:
+ Question: What is Android? How is it different from normal Linux?
 
 ```
 Android is a mobile operating system based on the Linux kernel, mainly used in smartphones, tablets, TVs, and cars.
@@ -55,7 +55,8 @@ Before Android dominated, the mobile OS market was shared by:
 These platforms had limited multitasking, app ecosystems, and were closed-source — making development and innovation hard.
 
 ---
-### Question: Why did Android become more popular than old mobile OS ?
+### Interview Question:
+Question: Why did Android become more popular than old mobile OS ?
 
 ```
 Answer:
@@ -139,7 +140,8 @@ Android is free, open-source, easy to use, and has a huge app store. Older syste
 ![android used in](/Images/applications.png)
 
 ---
-###  Question: Where else is Android used, other than phones?
+### Interview Question:  
+Question: Where else is Android used, other than phones?
 
 ```
 Answer:  
