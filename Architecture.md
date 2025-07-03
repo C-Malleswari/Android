@@ -116,7 +116,7 @@ When an app wants to read a file:
 → The kernel uses the driver to access the hardware  
 → Data is returned to the app safely.
 
----
+
 ```
 
 ```
